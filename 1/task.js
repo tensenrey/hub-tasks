@@ -28,15 +28,13 @@
  * (JSON:ApplicationModel 
  *  {
  *    applicationName: "string",
- *    createDate: Date,
- *    applicationId: uuidv7
  *  }
  * )
  * ----------------------------
  * Отдаем клиенту 
  * (JSON:ApplicationPostResponseModel 
  *  {
- *    applicationId: uuidv7   
+ *    applicationId: uuidv7
  *  }
  * )
  * ==============================
